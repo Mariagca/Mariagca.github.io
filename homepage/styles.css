@@ -1,0 +1,126 @@
+h1{
+
+  text-align: center;
+}
+div.topnav {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: center;
+  font-size: 20px;
+}
+
+div.topnav a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.topnav a:hover {
+  background-color: #777;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.back{
+
+    text-align: center;
+    font-size: 125%;
+}
+
+body {
+ background-image: url("nymap.jpeg");
+ height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.image2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: white;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: center;
+
+}
+
+.b{
+  text-align: center;
+  font-size: 140%;
+}
+.bb{
+  background-color:white;
+}
+.content-heading{
+
+    text-align: center;
+    font-weight: bold;
+}
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.title{
+  text-align: center;
+}
+
+.essay{
+  text-align: center;
+  font-weight: bold;
+}
+
+.tit{
+  text-align: center;
+  font-weight: bold;
+}
+
+.our{
+  text-align: center;
+  font-size: 125%;
+}
+
+.lol{
+
+  text-align: center;
+}
+
+.my{
+
+  float:left;
+  text-align:center;
+}
+
+.figure{
+
+  float:left;
+}
+.list{
+
+  text-align:center;
+}
